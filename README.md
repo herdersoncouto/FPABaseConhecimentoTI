@@ -10,3 +10,6 @@ Neste aplicativo teremos uma base de conhecimento com tutoriais e guias para sol
 * Estabelecer um padrão de respostas;
 * Possibilidade de atendimento 24h por dia e 7 dias por semana (autoatendimento); e
 * Aumento de soluções de suporte em primeiro nível.
+
+# Projeto de Interface
+https://github.com/herdersoncouto/FPABaseConhecimentoTI/blob/main/Projeto_Interface.pdf
