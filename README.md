@@ -15,4 +15,7 @@ Neste aplicativo teremos uma base de conhecimento com tutoriais e guias para sol
 * Aumento de soluções de suporte em primeiro nível.
 
 # Projeto de Interface
-https://github.com/herdersoncouto/FPABaseConhecimentoTI/blob/main/Projeto_Interface.pdf
+https://bit.ly/2PDculc
+
+# Gráfico de Navegação
+https://bit.ly/2PIJk41
