@@ -15,7 +15,7 @@ Neste aplicativo teremos uma base de conhecimento com tutoriais e guias para sol
 * Aumento de soluções de suporte em primeiro nível.
 
 # Projeto de Interface
-https://bit.ly/2PDculc
+https://bit.ly/3ptMeHr
 
-# Gráfico de Navegação
-https://bit.ly/2PIJk41
+# Gráfico/Diagrama de Navegação
+https://bit.ly/3ptR9YT
