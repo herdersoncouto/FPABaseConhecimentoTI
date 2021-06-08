@@ -14,8 +14,8 @@ Neste aplicativo teremos uma base de conhecimento com tutoriais e guias para sol
 * Possibilidade de atendimento 24h por dia e 7 dias por semana (autoatendimento); e
 * Aumento de soluções de suporte em primeiro nível.
 
-# Projeto de Interface
+# Projeto de Interface (Telas e Widgets Tree)
 https://bit.ly/3ptMeHr
 
-# Gráfico/Diagrama de Navegação
+# Navegação (Gráfico/Diagrama de Navegação)
 https://bit.ly/3ptR9YT
