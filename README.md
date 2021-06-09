@@ -1,4 +1,4 @@
-# FPABaseConhecimentoTI
+# Aplicativo KbaseTI
 Projeto para disciplina de Fundamentos de Programação Aplicada - Mestrado em Informática Aplicada - UFRPE
 
 # Logo do App
