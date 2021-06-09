@@ -20,5 +20,5 @@ https://bit.ly/3ptMeHr
 # Navegação (Gráfico/Diagrama de Navegação)
 https://bit.ly/3ptR9YT
 
-# Vídeo Explicativo do Aplicativo
+# Vídeo Explicativo do App KbaseTI
 https://bit.ly/3gagILe
