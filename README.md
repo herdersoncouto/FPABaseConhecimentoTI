@@ -5,7 +5,7 @@ Projeto para disciplina de Fundamentos de Programação Aplicada - Mestrado em I
 ![alt text](https://github.com/herdersoncouto/FPABaseConhecimentoTI/blob/main/Logo%20App%20BaseDeConhecimento.jpg)
 
 # Abordagem
-Neste aplicativo teremos uma base de conhecimento com tutoriais e guias para solucionar os principais problemas de TI enfrentados pelos usuários de um departamento da UFPE. Este aplicativo irá auxiliar as pessoas através de perguntas, dando-lhes uma possível solução do problema. Ele possibilitará um autoatendimento aos usuários do departamento, estabelecendo um padrão de respostas.
+O Aplicativo KbaseTI, conta com uma Base de Conhecimento com as principais dúvidas dos serviços de TI de um departamento da UFPE. No App, o usuário vai encontrar de forma simples e rápida uma solução para o problema que enfrenta. O KbaseTI indica uma série de tutoriais de sites confiáveis, bem como tutoriais em vídeo disponíveis no YouTube. A principal vantagem é a possibilidade de autoatendimento aos usuários do departamento, estabelecendo um padrão de respostas.
 
 # Funcionalidades
 * Navegação pelo app;
