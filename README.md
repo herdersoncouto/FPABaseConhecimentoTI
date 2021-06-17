@@ -22,3 +22,6 @@ https://bit.ly/3ptR9YT
 
 # Vídeo Explicativo do App KbaseTI
 https://bit.ly/3gagILe
+
+# Vídeo Marketing do App KbaseTI
+https://youtu.be/Ec89ZxdKto4
