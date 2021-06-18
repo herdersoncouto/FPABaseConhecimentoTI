@@ -24,4 +24,4 @@ https://bit.ly/3ptR9YT
 https://bit.ly/3gagILe
 
 # Vídeo Marketing do App KbaseTI
-https://youtu.be/Ec89ZxdKto4
+Clique aqui para assistir[https://drive.google.com/file/d/1bRlh6dRcWkPotQ0uR9QvkC3Rz4cQhaNf/view?usp=sharing]
