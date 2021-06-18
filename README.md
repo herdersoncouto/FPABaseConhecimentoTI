@@ -15,13 +15,13 @@ O Aplicativo KbaseTI, conta com uma Base de Conhecimento com as principais dúvi
 * Aumento de soluções de suporte em primeiro nível.
 
 # Projeto de Interface (Telas e Widgets Tree)
-https://bit.ly/3ptMeHr
+[Clique aqui para ver]https://bit.ly/3ptMeHr
 
 # Navegação (Gráfico/Diagrama de Navegação)
-https://bit.ly/3ptR9YT
+[Clique aqui para ver](https://bit.ly/3ptR9YT)
 
 # Vídeo Explicativo do App KbaseTI
-https://bit.ly/3gagILe
+[Clique aqui para assistir](https://bit.ly/3gagILe)
 
 # Vídeo Marketing do App KbaseTI
-Clique aqui para assistir[https://drive.google.com/file/d/1bRlh6dRcWkPotQ0uR9QvkC3Rz4cQhaNf/view?usp=sharing]
+[Clique aqui para assistir](https://drive.google.com/file/d/1bRlh6dRcWkPotQ0uR9QvkC3Rz4cQhaNf/view?usp=sharing)
