@@ -1,6 +1,8 @@
 # Aplicativo KbaseTI
 Projeto para disciplina de Fundamentos de Programação Aplicada - Mestrado em Informática Aplicada - UFRPE
 
+[Clique aqui para ver o código do projeto](https://github.com/herdersoncouto/FPABaseConhecimentoTI/tree/master)
+
 # Logo do App
 ![alt text](https://github.com/herdersoncouto/FPABaseConhecimentoTI/blob/main/Logo%20App%20BaseDeConhecimento.jpg)
 
